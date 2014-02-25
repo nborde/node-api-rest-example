@@ -1,0 +1,223 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"an",
+				"Ancho"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nicolasbordenave/Dropbox/Cudex/Camaras Cudex.txt",
+		"/Users/nicolasbordenave/Documents/Cudex/LibreriaViejo/crud-ci2/application/config/database.php",
+		"/Users/nicolasbordenave/Documents/Cudex/LibreriaViejo/ci_tut3-master/application/config/routes.php",
+		"/Users/nicolasbordenave/Documents/Cudex/LibreriaViejo/ci_tut3-master/index.php",
+		"/Users/nicolasbordenave/Documents/Cudex/LibreriaViejo/ci_tut3-master/application/config/database.php",
+		"/Users/nicolasbordenave/Documents/Cudex/LibreriaViejo/ci_tut3-master/application/config/config.php",
+		"/Users/nicolasbordenave/Documents/Cudex/LibreriaViejo/ci_tut3-master/application/models/bookModel.php",
+		"/Users/nicolasbordenave/Documents/Cudex/LibreriaViejo/ci_tut3-master/system/core/Security.php",
+		"/Users/nicolasbordenave/Documents/Cudex/LibreriaViejo/ci_tut3-master/application/views/contacto.php",
+		"/Users/nicolasbordenave/Documents/Cudex/LibreriaViejo/ci_tut3-master/application/views/servicios.php",
+		"/Users/nicolasbordenave/Documents/Cudex/LibreriaViejo/ci_tut3-master/application/views/inicio.php",
+		"/Users/nicolasbordenave/Documents/Cudex/LibreriaViejo/ci_tut3-master/application/views/acercade.php",
+		"/Users/nicolasbordenave/Documents/Cudex/LibreriaViejo/ci_tut3-master/application/views/plantillas/footer.php",
+		"/Users/nicolasbordenave/Documents/Cudex/LibreriaViejo/ci_tut3-master/application/controllers/tutorial.php",
+		"/Users/nicolasbordenave/Documents/Cudex/LibreriaViejo/ci_tut3-master/application/models/BookModel.php",
+		"/Users/nicolasbordenave/Documents/Cudex/LibreriaViejo/ci_tut3-master/application/views/plantillas/body.php",
+		"/Users/nicolasbordenave/Documents/Cudex/Sitio/cudex/style.css",
+		"/Users/nicolasbordenave/Documents/Cudex/Sitio/cudex/index.html",
+		"/Users/nicolasbordenave/Documents/Cudex/Sitio/cudex/confirmacionEmail.html",
+		"/Users/nicolasbordenave/Documents/ORT/2013 Nuevo Plan/Semestre 2/Programacion2 C#.net/Documentos Aulas/Banco_Persistente/Banco_Persistente/UpgradeLog.XML",
+		"/Users/nicolasbordenave/Documents/Saceem/Llevar y Revisar/Jboss_manager.sh",
+		"/Users/nicolasbordenave/Documents/Cudex/Sitio/cudex/error_log",
+		"/Users/nicolasbordenave/Documents/Migracion HP 12-2012/Migracion HP/C/wamp/www/Cudex/cudex2.html",
+		"/Users/nicolasbordenave/Documents/Cudex/Sistema/Datos DB/Practico1.cs",
+		"/Users/nicolasbordenave/Documents/ORT/2013 Nuevo Plan/Semestre 2/Programacion2 C#.net/Programacion 2 - Semana 1",
+		"/Users/nicolasbordenave/Pictures/Bromas/Chola PqueRecuerdo/Parcela En Cementerio Parque Del Recuerdo.txt",
+		"/Users/nicolasbordenave/Downloads/Datos ALC y Asia-Pacífico_1980-2011_05022013.sql",
+		"/Users/nicolasbordenave/Documents/Migracion HP 12-2012/Migracion HP/C/ORT/Curso J2EE 6/Entrega/script_DB.txt",
+		"/Users/nicolasbordenave/Documents/Hexacta/Projectos/Observatorio/Tareas.txt",
+		"/Users/nicolasbordenave/Documents/Hexacta/Projectos/Observatorio/Docs/Tareas al 21122012.txt",
+		"/Users/nicolasbordenave/Downloads/your-converted-csv-3.sql",
+		"/usr/share/servers/jboss-6.1.0.Final/server/default/deploy/Obligatorio-ds.xml",
+		"/Users/nicolasbordenave/Documents/Migracion HP 12-2012/Migracion HP/C/ORT/Curso J2EE 6/Entrega/ObligatorioJ2EE/src/com/obligatorio/login/Login.java",
+		"/Users/nicolasbordenave/Desktop/rcde_bin/rcde_manager.sh",
+		"/Users/nicolasbordenave/Documents/Hexacta/Projectos/Observatorio/workspace/OBSExternalUI/WebContent/pages/public/index.xhtml",
+		"/Users/nicolasbordenave/Downloads/datos_indicadores.sql",
+		"/Users/nicolasbordenave/Documents/Hexacta/Projectos/Observatorio/CatalogoIndicadores_Nico.csv",
+		"/Users/nicolasbordenave/Documents/Hexacta/Projectos/Observatorio/datos_indicadores.sql",
+		"/Users/nicolasbordenave/Downloads/your-converted-csv.sql",
+		"/Users/nicolasbordenave/Documents/Cudex/Datos Viejo",
+		"/Users/nicolasbordenave/Documents/Developer/server/mysql-ds.xml",
+		"/Users/nicolasbordenave/Documents/Migracion HP 12-2012/Migracion HP/C/Desarrollo/workSpace/LOG4J/Log4j.properties",
+		"/Users/nicolasbordenave/Documents/Hexacta/Projectos/Observatorio/Docs/Pasos para instalar subclipse.txt"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"person",
+			"persons",
+			"personModel",
+			"Person",
+			"tbl_person",
+			"header",
+			"inicio.php",
+			"),",
+			"('",
+			", '1'",
+			"observatorio",
+			"hostgato",
+			"),",
+			"'",
+			" 1",
+			"'  ",
+			"    ",
+			"). ",
+			",",
+			"''",
+			"\\\"",
+			"RPG"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"book",
+			"books",
+			"book",
+			"bookModel",
+			"Book",
+			"tbl_libro",
+			");",
+			"INSERT INTO `indicator_data` (`iso3`, `year`,`n_variable`,`variable`,`value`,`source`) VALUES('",
+			", 1",
+			"nborde_observatorio",
+			");\n\n\nINSERT INTO `indicator_data` VALUES \n('ARG'	1980	1	'PIB_N'	189924.78	'CEPALSTAT'),\n('ARG'	1980	2	'PIB_R'	114146.31	'CEPALSTAT'),\n('ARG'	1980	3	'POB'	28.12145	'CEPALSTAT'),\n('ARG'	1980	7	'TD'	2.6	'CEPALSTAT'),",
+			"`\n\n\nINSERT INTO `indicator_data` VALUES \n('ARG'	1980	1	'PIB_N'	189924.78	'CEPALSTAT'),\n('ARG'	1980	2	'PIB_R'	114146.31	'CEPALSTAT'),\n('ARG'	1980	3	'POB'	28.12145	'CEPALSTAT'),\n('ARG'	1980	7	'TD'	2.6	'CEPALSTAT'),",
+			",1\n\n\nINSERT INTO `indicator_data` VALUES \n('ARG'	1980	1	'PIB_N'	189924.78	'CEPALSTAT'),\n('ARG'	1980	2	'PIB_R'	114146.31	'CEPALSTAT'),\n('ARG'	1980	3	'POB'	28.12145	'CEPALSTAT'),\n('ARG'	1980	7	'TD'	2.6	'CEPALSTAT'),",
+			",\n\n\nINSERT INTO `indicator_data` VALUES \n('ARG'	1980	1	'PIB_N'	189924.78	'CEPALSTAT'),\n('ARG'	1980	2	'PIB_R'	114146.31	'CEPALSTAT'),\n('ARG'	1980	3	'POB'	28.12145	'CEPALSTAT'),\n('ARG'	1980	7	'TD'	2.6	'CEPALSTAT'),",
+			"\n\n\nINSERT INTO `indicator_data` VALUES \n('ARG'	1980	1	'PIB_N'	189924.78	'CEPALSTAT'),\n('ARG'	1980	2	'PIB_R'	114146.31	'CEPALSTAT'),\n('ARG'	1980	3	'POB'	28.12145	'CEPALSTAT'),\n('ARG'	1980	7	'TD'	2.6	'CEPALSTAT'),",
+			"),",
+			".",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
